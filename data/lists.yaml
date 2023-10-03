@@ -1,0 +1,918 @@
+covid:
+  group_1:
+  - value_name: fairness
+    defining_goal: Measures should apply to everyone, without discriminating among
+      groups (age and region especially).
+    keywords:
+    - apply to everyone
+    - differences
+    - equality
+    - distribution
+    - discrimination
+  - value_name: care
+    defining_goal: Make sure that everyone is taken care of and looked after.
+    keywords:
+    - caregiving
+    - care for each others
+    - help
+    - support
+  - value_name: being social
+    defining_goal: Being in contact with friends, neighbors and other acquaintances
+      in your social circle.
+    keywords:
+    - contact
+    - physical
+    - oil of society
+    - social isolation
+    - neighbors
+    - hug
+    - weighs very heavily
+    - fellow believers
+    - religion
+    - friends
+    - each others
+  - value_name: enjoyment
+    defining_goal: Being able to enjoy life at full and indulge in fun activities.
+    keywords:
+    - beer
+    - getaway
+    - recreational sex
+    - sport
+    - entertainment
+    - drinking
+    - fun
+    - pleasure
+    - celebrate
+    - festivals
+    - weekends
+  - value_name: economic prosperity
+    defining_goal: Being able to pay and afford what you need.
+    keywords:
+    - unemployment
+    - poverty
+    - bankruptcy
+    - economy
+    - companies
+    - entrepreneur
+    - money
+    - interests
+    - restart
+    - must be kept running
+    - running
+    - income
+    - provide
+    - jobs
+    - industry
+    - work
+    - worried
+    - stability
+  - value_name: nuclear family
+    defining_goal: Being together with your parents, kids and siblings.
+    keywords:
+    - couch
+    - wedding
+    - parents
+    - sister
+    - birth
+    - family members
+    - foundation
+    - social education
+    - unnatural
+    - child
+    - relatives
+  - value_name: control
+    defining_goal: Having and respecting regulations in order to avoid the spread
+      of the disease.
+    keywords:
+    - cross-border traffic
+    - traffic
+    - necessary adjustments
+    - protective equipment
+    - distance
+    - necessary
+    - obliging mouth caps
+    - can maintain
+    - tests
+    - impossible
+    - protectors
+    - solutions
+    - masks
+    - desinfect
+    - app
+    - protocol
+    - monitored
+    - humidity monitored
+    - difficult
+    - distance
+    - sly
+    - secretive
+    - obey
+  - value_name: safety
+    defining_goal: Staying healthy and not infected.
+    keywords:
+    - safety measures
+    - mouth caps
+    - gloves
+    - precaution
+    - distance
+    - wash hands
+    - low risk
+    - not transfering
+    - many strangers come very close
+    - immunity temporary
+    - infection hazard
+    - transfer limited
+    - below 60
+    - risk
+    - building immunity
+    - group immunity
+    - tests
+    - dangers to the elderly
+    - monitoring our health
+    - health
+  - value_name: autonomy
+    defining_goal: Being able to determine by yourself what you do and are allowed
+      to do.
+    keywords:
+    - everything open
+    - restrictions
+    - enforcement
+    - choice
+    - own
+    - liberty
+    - individualist
+    - self-concern
+  - value_name: well-being
+    defining_goal: Being content, doing well, without worries.
+    keywords:
+    - alone
+    - loneliness
+    - psychological influence
+    - relaxation
+    - depression
+    - mental health
+    - emotional
+    - beautifull moments
+    - mental health
+    - psychically
+    - suicide
+    - pressure
+    - needs
+    - normal
+    - loneliness
+    - isolation
+    - restless
+    - apprehensiveness
+    - expectation
+    - hope
+  - value_name: feasibility
+    defining_goal: Having policies that are doable and effective.
+    keywords:
+    - test case
+    - research
+    - possibilities
+    - demonstrated
+    - charts
+    - statistics
+    - science
+    - rivm
+    - try out
+    - unlikely
+    - logical
+    - practical
+    - reasonable
+    - common sense
+  group_2:
+  - value_name: Mental health
+    defining_goal: The strive towards protecting and improving one's emotional and
+      psychological well-being
+    keywords:
+    - mentally
+    - stress
+    - Mental damage
+    - positivity
+    - living alone
+    - psychic injury
+    - stress
+    - physical proximity
+    - mental complaints
+    - tension
+    - spiritual relaxation
+    - quality of life
+    - psychiatry
+    - loneliness
+    - walk around
+    - visit ill people in nursery home
+    - cheer up
+    - last days
+    - empathy
+    - compassion
+    - last phase of life
+    - psychologist
+    - personal care
+  - value_name: Safety and Health
+    defining_goal: Personal protection against the health-related impacts caused by
+      the coronavirus
+    keywords:
+    - hygiene
+    - facial protection
+    - screen
+    - immune
+    - small scale
+    - masks
+    - protected
+    - keep distance
+    - distance
+    - Mouth caps
+    - gloves
+    - busy
+    - crowded
+    - health
+    - groups
+    - personal
+    - safe
+    - mortality
+    - fatality
+    - death
+    - dying
+    - diabets
+    - die
+    - immune system
+    - temperature
+  - value_name: Economic security
+    defining_goal: Mitigating the economic downsides of the situation caused by the
+      pandemic and its countermeasures.
+    keywords:
+    - money
+    - shops
+    - recession
+    - company
+    - jobs
+    - 'entrepreneurs '
+    - self-employed
+    - survival
+    - companies
+    - financial impact
+    - fall
+    - restart activity
+    - poverty
+    - bankrupt
+    - restaurants
+    - enterpreneurship
+    - economic
+    - taxation
+    - productivity
+    - unemployment
+    - resume work
+    - heavy economic times
+    - economy
+    - zzp
+    - zzper
+    - financial damage
+    - companies fall down
+    - earn money
+    - Relaunching economics
+  - value_name: Acceptance of misbehavior
+    defining_goal: Acceptance to the fact that people might not conform to measures.
+    keywords:
+    - working black
+    - empathy
+    - illegal
+    - ignorance
+    - misbehavior
+    - People are already doing it
+    - We see it every day
+    - abuse
+    - illusion
+    - lying
+    - unfair
+  - value_name: Pleasure
+    defining_goal: Being able to undertake activities that promotes personal satisfaction
+      and pleasure.
+    keywords:
+    - pleasure
+    - fun
+    - activity
+    - entertainment
+    - cozy
+    - Drink
+    - Balance
+    - social interaction
+    - festivals
+    - dates
+    - food
+    - recreational
+    - leisure
+    - liveliness
+    - kiss
+    - hug
+  - value_name: Conformity
+    defining_goal: Striving to comply to the guidelines and rules imposed by the authorities
+    keywords:
+    - official
+    - government
+    - behavior
+    - citizen
+    - control
+    - measures
+    - controlled protection
+    - 1.5 meter
+    - working undercover
+    - RIVM
+    - keep distance
+    - strict regulations
+    - mouth caps
+    - rules
+    - fines
+    - norms
+    - regulations
+    - stay home
+    - responsible
+    - unless you're ill
+    - no busy places
+    - limit risk
+    - work at home
+    - trust
+  - value_name: Equality
+    defining_goal: Ensuring that all people are given the same treatment and act for
+      the common good
+    keywords:
+    - equal
+    - the same
+    - unfair
+    - Distinction
+    - discrimination
+    - doesn't apply only to certain groups of subjects
+    - help other people
+    - Human side
+    - humanity
+  - value_name: Belonging to a group
+    defining_goal: Being able to closely interact with the people that you care about
+      or enjoy spending time with
+    keywords:
+    - friends
+    - miss friends
+    - social contact
+    - Zoom
+    - Skype
+    - meet friends
+    - social
+    - cozy
+    - chill
+    - friends
+    - buddies
+    - youth
+    - together
+    - contact
+    - church
+    - sing
+    - pray
+    - sports
+    - family
+    - school
+    - peers
+    - daughter
+    - cuddling
+    - grandparent
+    - relatives
+  - value_name: Autonomy
+    defining_goal: Being able to make your own decisions and take the responsibility
+      for your actions
+    keywords:
+    - walk around
+    - own decision
+    - choice
+    - proximity
+    - do something useful
+    - police state
+    - personal
+    - choice
+    - freedom
+    - self
+    - autonomy
+    - companies decide
+    - decide for themselves
+    - responsibility for individual
+    - you may visit or not
+    - own responsibility
+    - choose for themselves
+energy:
+  group_1:
+  - value_name: Distributional justice
+    defining_goal: Fair distribution of burdens and benefits.
+    keywords:
+    - Everywhere
+    - not just in Friesland
+    - 'spread '
+    - across the netherlands
+    - they pay
+  - value_name: innovation
+    defining_goal: Keep on producing new and better technologies.
+    keywords:
+    - alternatives
+    - stimulate
+    - under development
+    - future
+    - bet on
+    - biogas
+    - new technologies
+    - creativity
+    - progress
+    - invention
+  - value_name: guidance
+    defining_goal: Having a central entity that decides and regulates energy policies.
+    keywords:
+    - direction
+    - Obliges companies
+    - control
+    - central
+    - disagree
+    - coordinated
+    - overview
+    - centrally regulated
+    - distribute
+    - take the lead
+    - government
+    - municipality
+    - monitoring
+  - value_name: energy independence
+    defining_goal: Having an independent source of energy, without relying on external
+      providers.
+    keywords:
+    - themselves
+    - own backyard
+    - self
+    - self-doing
+    - close to home
+    - private
+    - reserve
+    - need
+    - storage
+  - value_name: effectiveness
+    defining_goal: Creating tailor-made, doable policies to reach the renewable energy
+      target.
+    keywords:
+    - success
+    - feasible
+    - effective
+    - appropriate
+    - optimal
+    - 'in order to get away from '
+    - inevitable
+    - necessary
+    - does its job
+    - very busy
+    - well-led
+    - needed
+    - Prevent things from being done twice
+    - Many different housing situations
+    - possible
+    - small
+    - fitting
+  - value_name: support
+    defining_goal: People receive advice and assistance.
+    keywords:
+    - help
+    - care
+    - possibilities
+    - don't know
+    - knowledge
+    - unable
+    - weakest
+  - value_name: sustainability
+    defining_goal: Having energy policies that increase renewable energy generation.
+    keywords:
+    - pollution
+    - renewable energy
+    - care for environment
+  - value_name: planning for rainy days
+    defining_goal: Having plans for unforeseen circumstances.
+    keywords:
+    - expectation
+    - storage
+    - seasonal
+    - weather conditions
+    - unforeseen
+  - value_name: distrust
+    defining_goal: Big players (government, large companies) should not be in charge
+      of solving problems on citizens' behalf.
+    keywords:
+    - only revolves around money
+    - fill his own cases
+    - not leave it to the market
+    - small part
+    - delivered to the gods
+    - serving
+    - repugnance
+    - economy
+    - savings
+    - anti-politics
+    - many beautiful words
+    - few deeds
+    - anti-market
+    - mistrust
+  - value_name: landscape preservation
+    defining_goal: Leave landscape untouched.
+    keywords:
+    - Billiard towel with holes
+    - beautiful
+    - landscape
+    - messy
+    - few places as possible
+    - not stand out
+    - landscape pollution
+    - inconspicuous
+    - opposed to large-scale
+    - beauty
+    - nature is affected
+    - interference
+    - for nature
+    - surroundings
+  - value_name: equal opportunities
+    defining_goal: Everyone should be given a chance to participate and speak up.
+    keywords:
+    - benefits everyone
+    - rich and poor
+    - paid by everyone
+    - strongest win from the weakest
+    - possible for everyone
+    - fairness
+  - value_name: regional benefits
+    defining_goal: Bring advantages to job market and economy of South-West Friesland.
+    keywords:
+    - jobs
+    - own gain
+    - profit
+    - investment
+    - opportunities
+  - value_name: representation
+    defining_goal: Every member of society should be accounted for when taking decisions.
+    keywords:
+    - Approach all residents
+    - stand up for
+    - accountability
+    - responsibility
+  - value_name: community
+    defining_goal: Creation and ownership by and of the community.
+    keywords:
+    - decide for themselves
+    - determining people
+    - people determining
+    - free
+    - own steps
+    - willingness
+    - leave it to the people
+    - from the bottom
+    - choice
+    - self-management
+    - independence
+    - autonomy
+    - Local needs
+    - own community
+    - small-scale
+    - own initiative
+    - involvement
+    - with residents
+    - participation
+    - each others
+    - solidarity
+    - engagement
+  group_2:
+  - value_name: Community
+    defining_goal: Preserving the feeling of doing it together and taking care of
+      each other
+    keywords:
+    - cooperation
+    - Encouraging residents
+    - ideas
+    - involve
+    - involvement
+    - local binder
+    - 'limits and conditions of government and residents '
+    - mei elkoar
+    - mienskip
+    - think along
+    - each other
+    - care
+    - contribute
+    - balance
+    - 'protection '
+    - everyone
+    - 'Solidarity '
+  - value_name: Initiative
+    defining_goal: Participants value acting towards their own plans
+    keywords:
+    - Involvement
+    - Do something themselves
+    - empty roofs
+    - local enterpreneur
+    - residents
+    - buying solar panels
+    - self-doing
+    - conscious behaviour
+    - heat pumps
+    - solar panels
+    - enthusiasm
+    - regulate its own energy
+    - opportunities
+    - Encouraging residents
+    - Stimulates
+    - ' stick behind the door'
+    - Initiating
+  - value_name: freedom
+    defining_goal: Participants value the ability to freely speak, think or make their
+      own choices in the energy transition.
+    keywords:
+    - own direction
+    - my choice
+    - freedom
+    - independence
+    - autonomy
+    - responsibility for themselves
+    - private
+    - liberty
+    - themselves
+    - voice
+    - residents
+    - small scale
+  - value_name: Organizational Leadership
+    defining_goal: A single organization is in charge of supervision and organizing
+      the process towards reaching the energy goals.
+    keywords:
+    - organized
+    - mess
+    - conflict
+    - central management
+    - delays
+    - decision-making
+    - Prevent things from being done twice
+    - oversee
+    - higher level
+    - cooperation
+    - director
+    - supervises
+    - compliance
+    - regulate
+    - energy co-operations
+    - director
+    - leader
+    - control
+    - supervision
+    - protection
+    - direction
+    - conditions
+    - central point
+    - democratic
+    - Consults
+    - municipality
+    - Approach all residents
+    - decision
+    - coordinate
+    - lead
+    - expertise
+    - nation
+    - municipality
+    - Europe
+    - politicians
+    - official
+  - value_name: Involvement
+    defining_goal: People have a say in the process of reaching the energy goals
+    keywords:
+    - involve people
+    - involve citizens
+    - democratically elected
+    - voting
+    - veto
+    - election
+    - financial participation
+    - think along
+    - participation
+    - public
+    - public evaluation
+    - survey
+    - opinion
+  - value_name: Nature and landscape
+    defining_goal: Preserving nature and the aesthetic of the landscape
+    keywords:
+    - Nature
+    - landscape
+    - few places as possible
+    - preserve
+    - nature conservation
+    - find a place
+    - nature protection
+    - small number of places
+    - disruption of landscape
+    - view in nature
+    - ugly windmills
+    - putting trees
+    - trees
+    - bushes
+    - clustering
+    - cluttering of the landscape
+    - landscape
+    - living
+    - surrounding
+    - scenic
+    - ecology
+    - not stand out
+    - flat building
+    - further from the inhabited world
+    - not in my backyard
+    - underground
+    - minimal nuisance
+    - less burdened
+    - minimize burdening
+    - liveability
+    - noise
+    - in front of my nose
+  - value_name: Technical Reliability
+    defining_goal: Ensuring that people can rely on energy solutions and have a stable
+      energy grid without hampering in their way of life
+    keywords:
+    - Transport losses
+    - Overproduction
+    - help with industry
+    - severe winter
+    - retention of electricity
+    - spikes
+    - excess generated energy
+    - stored
+    - later use
+    - always electricity
+    - stable grid
+    - control
+    - stability
+    - direction of the municipality
+    - electricity grid
+    - energy security
+  - value_name: Technological Innovation
+    defining_goal: Capacity to come up with new and better solutions to energy-related
+      problems
+    keywords:
+    - Hydrogen storage
+    - Frontrunner
+    - water treatment
+    - biogas
+    - wave energy
+    - most recent products
+    - newest technology
+    - H2
+  - value_name: Local benefit
+    defining_goal: To try and steer the (financial) benefits from a solutions towards
+      one that is best for the participant and its peers.
+    keywords:
+    - Investment
+    - Profits
+    - revolves around money
+    - earning model
+    - profitable
+    - rewarding
+    - an extra penny
+    - earn money
+    - local profit
+    - labour
+    - financial risk reduction
+    - no big investors
+    - local labour
+    - jobs for citizens
+    - mercy of wealthy companies
+  - value_name: support
+    defining_goal: Ensuring that all participants can rely on the expertise of the
+      decision makers, and are all assisted during the organizational procedures.
+    keywords:
+    - municipality can help me with that
+    - professional expertise
+    - help me decide
+    - older people
+    - elderly
+    - support
+    - help
+    - assist
+    - aid
+    - facilitation
+    - legal
+    - permit
+    - subsidy
+  - value_name: Free market economy
+    defining_goal: The belief that a free, self-regulated market economy will result
+      in the best gains for all participants
+    keywords:
+    - profitable
+    - efficient
+    - lucrative
+    - most profit per area
+    - optimize space
+    - scalability
+    - large scale
+    - companies are effective
+    - company
+    - income
+    - players
+    - 'capitalist '
+    - profit
+  - value_name: Inevitability
+    defining_goal: 'The realization that actions need to be taken even if your preferences
+      are not aligned with that action '
+    keywords:
+    - no choice
+    - energy security
+    - necessity
+    - needed
+    - required
+    - necessary
+    - important
+    - 'uncertainty '
+    - responsibility
+  - value_name: Fairness
+    defining_goal: The strive towards a proper division of benefits and responsibilities.
+    keywords:
+    - Same playing field
+    - social approach
+    - social
+    - Each province must take a share
+    - weaker
+    - share profit
+    - Divide the burden
+    - strongest wins
+    - neighbourhoods differ
+    - local decision
+    - local solution
+    - Keep it local
+schwartz:
+- value_name: Self-Direction
+  defining_goal: independent thought and action -- choosing, creating, exploring.
+  keywords:
+  - creativity
+  - freedom
+  - choosing own goals
+  - curious
+  - independent
+- value_name: Stimulation
+  defining_goal: excitement, novelty, and challenge in life.
+  keywords:
+  - a varied life
+  - an exciting life
+  - daring
+- value_name: Hedonism
+  defining_goal: pleasure or sensuous gratification for oneself.
+  keywords:
+  - pleasure
+  - enjoying life
+  - self-indulgent
+- value_name: Achievement
+  defining_goal: personal success through demonstrating competence according to social standards.
+  keywords:
+  - ambitious
+  - successful
+  - capable
+  - influential
+- value_name: Power
+  defining_goal: social status and prestige, control or dominance over people and resources.
+  keywords:
+  - authority
+  - wealth
+  - social power
+- value_name: Security
+  defining_goal: safety, harmony, and stability of society, of relationships, and of self.
+  keywords:
+  - social order
+  - family security
+  - national security
+  - clean
+  - reciprocation of favors
+- value_name: Conformity
+  defining_goal: restraint of actions, inclinations, and impulses likely to upset or harm others and violate social expectations or norms.
+  keywords:
+  - obedient
+  - self-discipline
+  - politeness
+  - honoring parents and elders
+- value_name: Tradition
+  defining_goal: respect, commitment, and acceptance of the customs and ideas that one's culture or religion provides.
+  keywords:
+  - respect for tradition
+  - humble
+  - devout
+  - accepting my portion in life
+- value_name: Benevolence
+  defining_goal: preserving and enhancing the welfare of those with whom one is in frequent personal contact (the 'in-group').
+  keywords:
+  - helpful
+  - honest
+  - forgiving
+  - responsible
+  - loyal
+  - true friendship
+  - mature love
+- value_name: Universalism
+  defining_goal: understanding, appreciation, tolerance, and protection for the welfare of all people and for nature.
+  keywords:
+  - broadminded
+  - social justice
+  - equality
+  - world at peace
+  - world of beauty
+  - unity with nature
+  - wisdom
+  - protecting the environment
